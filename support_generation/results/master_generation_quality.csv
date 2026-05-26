@@ -1,0 +1,9 @@
+﻿llm_alias,model,bleu-1,bleu-2,rouge-l,distinct-1,distinct-2,bert_score
+llama-70b-instruct,distilbert,14.97,4.37,13.62,3.73,22.49,85.36
+llama-70b-instruct,roberta,14.54,4.31,13.51,3.65,22.09,85.26
+qwen3-32b,distilbert,13.59,4.02,13.43,3.09,22.07,85.26
+qwen3-32b,roberta,13.2,3.82,13.3,3.12,22.58,85.16
+llama-8b-instruct,distilbert,13.71,4.12,13.6,3.08,18.9,85.24
+llama-8b-instruct,roberta,13.64,4.09,13.35,3.25,20.3,85.19
+qwen3-8b,distilbert,13.31,4.01,13.46,2.52,17.1,85.23
+qwen3-8b,roberta,13.03,3.9,13.43,2.55,17.89,85.15

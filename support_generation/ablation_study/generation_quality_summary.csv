@@ -1,0 +1,4 @@
+﻿model,bleu-1,bleu-2,rouge-l,distinct-1,distinct-2,bert_score
+llm_only,13.84,4.31,14.17,2.49,18.69,85.26
+strategy_probability,13.38,4.05,13.58,3.07,22.15,85.19
+stage_information,14.16,4.29,14.12,2.64,19.0,85.21

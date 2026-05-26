@@ -1,0 +1,3 @@
+classifier,task,m_f1,w_f1,latency
+distilbert,strategy,0.2779,0.3146,7.54 ms/sample
+roberta,strategy,0.2825,0.3246,12.28 ms/sample

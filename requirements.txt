@@ -1,0 +1,22 @@
+# strategy_prediction + support_generation
+# Tested on Python 3.10. Pin versions to your experiment environment as needed.
+
+# --- shared ---
+numpy
+pandas
+tqdm
+transformers>=4.40
+datasets
+ftfy
+
+# --- strategy_prediction ---
+torch
+pytorch-lightning>=2.0
+torchmetrics
+scikit-learn
+
+# --- support_generation ---
+openai>=1.0          # vLLM-compatible client
+vllm                 # required for support_generation/scripts/run_vllm.sh
+nltk
+bert-score
